@@ -1,12 +1,7 @@
-## Hi there 👋
+# ▌ HiMCBBS 论坛​
 
-<!--
+HiMCBBS 论坛是一个创建于 2024 年 1 月 28 日 的 Minecraft Java 版和基岩版综合论坛，于 2023 年 8 月 12 日 开始策划，致力于为 Minecraft 玩家、服主、创作者等提供多方面的资源下载和发布以及游戏交流平台。
 
-**Here are some ideas to get you started:**
+你可以在这里找到我们的一些开源项目，也可以在论坛查找到各类你想要的资源，或是发表自己的作品，在论坛中交流讨论，遇到不懂的问题可以发帖询问。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我们的运营理念是开放、平等、和谐、共享！我们欢迎所有 Minecraft 相关人群加入这个社区~
